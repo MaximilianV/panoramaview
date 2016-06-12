@@ -1,0 +1,5 @@
+*.json
+*.pkl
+*.bash*
+.profile
+.viminfo
